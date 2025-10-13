@@ -1,0 +1,16 @@
+:root {
+  --zen-radius-3xl: 2.5rem;
+  --zen-card-bg: rgba(15, 23, 42, 0.72);
+  --zen-border: rgba(255, 255, 255, 0.16);
+  --zen-glow: rgba(56, 189, 248, 0.35);
+  --zen-font: "Inter", "SF Pro Display", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
