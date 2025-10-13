@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360">
+  <rect width="600" height="360" fill="#0b1220" rx="32" />
+  <ellipse cx="300" cy="180" rx="220" ry="140" fill="#1e293b" />
+  <circle cx="300" cy="180" r="90" fill="#38bdf8" opacity="0.3" />
+  <text x="300" y="190" text-anchor="middle" font-size="48" font-family="Inter, sans-serif" fill="#f8fafc">ZEN Invoice</text>
+  <g fill="#94a3b8" font-family="Inter, sans-serif" font-size="18">
+    <text x="120" y="80">ZEN AI Co.</text>
+    <text x="120" y="110">Invoice #ZA-204</text>
+    <text x="120" y="140">Due: 31 Mar 2024</text>
+    <text x="120" y="200">AI Strategy Workshop — $4,800</text>
+    <text x="120" y="230">Executive Coaching — $3,200</text>
+    <text x="120" y="260">Telemetry Dashboard — $1,850</text>
+    <text x="120" y="310">Total: $9,850</text>
+  </g>
+</svg>
