@@ -26,6 +26,7 @@ Each lab delivers a teach-then-test mission with telemetry, cost awareness, and 
 - **Prompt-Ops** – run prompt A/B tests, track cost deltas, auto-optimize variants.
 - **Vision Studio** – upload screenshots, define region prompts, extract structured JSON.
 - **Data Broker** – ingest docs, retrieve top chunks, answer with citations and accuracy guards.
+- **Wealth Compounder OS** – convert time, capital, and skill inputs into a mobile-first execution plan for compounding income.
 
 ## Key features
 
