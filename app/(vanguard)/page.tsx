@@ -36,6 +36,11 @@ const overviewCards = [
     href: "/(vanguard)/lab/data-broker",
     summary: "Run retrieval-augmented responses with citations and cost guards.",
   },
+  {
+    title: "Wealth Compounder OS",
+    href: "/(vanguard)/lab/wealth-compounder",
+    summary: "Map your available time, skills, and capital into a daily wealth-compounding execution plan.",
+  },
 ];
 
 export default function SectionOverview() {
